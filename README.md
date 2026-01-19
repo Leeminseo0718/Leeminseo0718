@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=edf2fb&height=180&section=header&text=👋Welcome%20to%20minseo's%20Github👋&fontSize=50&animation=fadeIn&fontAlignY=50)
 
-<h3 align="center">
-  데이터 분석을 통해 AI 모델을 설계하고 분석하는 엔지니어를 꿈꾸고 있습니다.
-</h3>
+<p align="center">
+  <b style="font-size: 1.2em;">데이터 분석을 통해 AI 모델을 설계하고 분석하는 엔지니어를 꿈꾸고 있습니다.</b>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=550&lines=🤖+AI+Engineer+in+the+making;🧠+Machine+Learning+Practitioner;📊+Designing+%26+Analyzing+AI+Models;🔍+Data-Driven+Problem+Solver">
