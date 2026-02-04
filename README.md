@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=👋Welcome%20to%20minseo%27s%20Github👋&fontSize=50&animation=fadeIn&fontAlignY=50" />
-</p>
+<div align="center">
+  <h1>👋 Welcome to Minseo's Github 👋</h1>
+</div>
 
 <p align="center">
   <b style="font-size: 1.2em;">데이터 분석을 통해 AI 모델을 설계하고 분석하는 엔지니어를 꿈꾸고 있습니다.</b>
