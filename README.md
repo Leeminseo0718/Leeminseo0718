@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=edf2fb&height=180&section=header&text=👋Welcome%20to%20minseo's%20Github👋&fontSize=50&animation=fadeIn&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?text=👋Welcome%20to%20minseo's%20Github👋&fontSize=50&animation=fadeIn&fontAlignY=50)
 
 <p align="center">
   <b style="font-size: 1.2em;">데이터 분석을 통해 AI 모델을 설계하고 분석하는 엔지니어를 꿈꾸고 있습니다.</b>
